@@ -16,7 +16,7 @@ const products = [
             },
             {
                 id: "alpaca-003",
-                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpaQZs1gVoN8FG0eBpaeBfHRXc5PUMsyz9zw&s",
+                image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-zb7NNULwkDXno7gEBv8uak7dM7Tq6hVXw&s",
                 name: "Cocoa - Brown Huacaya",
                 rating: { stars: 4.2, count: 5 },
                 priceCents: 199900,
